@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const Header = () => {
     return (
         <header className='header'>
-            <h1 className='site_title'>Income Expense Tracker App</h1>
+            <h1 className='site_title'>Income Expense Transactions App</h1>
             <nav className='navbar'>
                 <ul>
                     <li>
